@@ -1,7 +1,7 @@
 # Chat
 Simple Chat using socket
 
-=================================================================================================================================
+======================================================================
 HOW TO USE
 
 1) Run the Server.class
@@ -24,4 +24,4 @@ NOTE: You need make the step 5 e 6 for all peaople that would like of participat
       For example: If would like to connect with 3 people into a chat conversation (simultaneously), each people needs do 
       the steps 5 and 6 (described above)
 
-=================================================================================================================================
+======================================================================

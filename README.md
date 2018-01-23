@@ -2,6 +2,7 @@
 Simple Chat using socket
 
 ======================================================================
+
 HOW TO USE
 
 1) Run the Server.class
